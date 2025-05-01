@@ -1,1 +1,1 @@
-Line 1
+Line 1 (I did these changes on DETACHED HEAD mode)
